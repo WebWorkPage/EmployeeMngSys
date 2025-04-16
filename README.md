@@ -1,4 +1,4 @@
-# Employee Management System
+# Employee Management System using ReactJs and SpringBoot
 It's a platform for managing employee data and operations (CRUD)
 
 # Features:
